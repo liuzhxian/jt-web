@@ -16,7 +16,7 @@ import com.jt.web.service.ItemService;
 public class ItemController {
 	
 	@Autowired
-	private ItemService itemService;
+	private ItemService itemServicefdsf;
 	
 	@RequestMapping(value="/{itemId}")
 	public String findItemById(@PathVariable Long itemId,Model model){
