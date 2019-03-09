@@ -21,7 +21,7 @@ import com.jt.web.thread.UserThreadLocal;
 public class CartController {
 	
 	@Autowired
-	private CartService cartServicesplifdsfs;
+	private CartService cartServicesplis;
 	
 	//1.实现购物车展现
 	@RequestMapping("/show")
