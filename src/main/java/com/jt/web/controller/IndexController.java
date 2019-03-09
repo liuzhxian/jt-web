@@ -9,6 +9,6 @@ public class IndexController {
 	@RequestMapping("/index")
 	private String index(){
 		
-		return "itsfgvddbvbfg";
+		return "是打算考的哈萨克的";
 	}
 }
